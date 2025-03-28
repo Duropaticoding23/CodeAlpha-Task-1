@@ -28,3 +28,6 @@ The Student Grade Tracker is a Java-based program designed to help teachers mana
 3. Enter grades for the student (e.g., 85, 90, 78).
 4. Type 'done' to finish entering grades.
 5. The program will display the average score, highest score, and lowest score for the student.
+
+# **Contribution **
+Feel free to contribute to the project by reporting issues or submitting pull requests. If you'd like to suggest new features, improvements, or fixes, please open an issue or submit a pull request with your changes
